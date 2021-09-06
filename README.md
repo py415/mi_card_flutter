@@ -21,9 +21,9 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 Here's a image preview of how the app looks:
 
-<img src="https://github.com/py415/app-resources/blob/master/flutter/ios/flutter-ios-mi-card.png" width=250>
+<img src="https://raw.githubusercontent.com/py415/app-resources/master/flutter/ios/flutter-ios-mi-card.png" width="250" />
 
-<img src="https://github.com/py415/app-resources/blob/master/flutter/android/flutter-android-mi-card.png" width=250>
+<img src="https://raw.githubusercontent.com/py415/app-resources/master/flutter/android/flutter-android-mi-card.png" width="250" />
 
 ## Libraries
 
